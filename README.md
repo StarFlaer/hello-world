@@ -1,2 +1,4 @@
 # hello-world
-Just another repository
+Hi, people!
+
+I now study programme language.
